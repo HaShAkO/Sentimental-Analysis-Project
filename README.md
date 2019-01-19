@@ -9,7 +9,6 @@
 ## Project Description/Outline:
 
 Social media gives for free business insights, an unprecedented opportunity for connecting with customers and prospects. We can’t keep track of everything ... at least for now, so, we have to decide what data matters. Some things are obvious while others are easily overlooked. The type of data we need also basically depends on the questions or doubts that we want to find an answer. In this case i'll focus in analyze the followers of the of the principal ISPs (Internet Service Providers) in México to get the overal sentimental about their service.
----
 
 ## Research Questions to Answer
 
